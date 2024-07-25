@@ -12,3 +12,5 @@ I am very fortunate to be advised by Prof. Qiao-guo Tan (https://cee.xmu.edu.cn/
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+[Email](xjy99929@gmail.com) / [Github](https://github.com/jiayin929) / [Wechat](../images/wechat.png) / 
+
