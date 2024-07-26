@@ -2,7 +2,7 @@
 title: "Salinity influence correction for zinc ion seawater quality criteria and ecological risk assessment in Chinese seas"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'The increasing prevalence of zinc pollution in marine ecosystems, primarily from industrial sources, has become a global environmental concern. '
+excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-07-14
 venue: 'Science of the Total Environment'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
