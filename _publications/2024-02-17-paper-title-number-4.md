@@ -2,7 +2,13 @@
 title: "Salinity influence correction for zinc ion seawater quality criteria and ecological risk assessment in Chinese seas"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: >
+excerpt: #
+date: 2024-07-14
+venue: 'Science of the Total Environment'
+paperurl: #'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Xu, J., Zhang, H., Pu, X., Li, Q., Pan, J., Yan, Z., 2024. Salinity influence correction for zinc ion seawater quality criteria and ecological risk assessment in Chinese seas. Science of the Total Environment, 174835. 10.1016/j.scitotenv.2024.174835.'
+---
+
   The increasing prevalence of zinc pollution in marine ecosystems, primarily from industrial sources, 
   has become a global environmental concern. This study addresses zinc toxicity in Chinese coastal waters, 
   emphasizing the importance of considering environmental factors like salinity and temperature in establishing 
@@ -14,10 +20,3 @@ excerpt: >
   nature of zinc pollution's impact on marine ecosystems. Greater acute and chronic risk of zinc ions observed 
   in the Yellow Sea region. These findings underscore the imperative need for tailored management strategies to protect local marine life from the 
   environmental threats posed by zinc.
-date: 2024-07-14
-venue: 'Science of the Total Environment'
-paperurl: #'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Xu, J., Zhang, H., Pu, X., Li, Q., Pan, J., Yan, Z., 2024. Salinity influence correction for zinc ion seawater quality criteria and ecological risk assessment in Chinese seas. Science of the Total Environment, 174835. 10.1016/j.scitotenv.2024.174835.'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
