@@ -7,14 +7,13 @@ excerpt: >
   has become a global environmental concern. This study addresses zinc toxicity in Chinese coastal waters, 
   emphasizing the importance of considering environmental factors like salinity and temperature in establishing 
   water quality criteria (WQC). Data collected from various marine regions underwent meticulous analysis, 
-  incorporating salinity corrections to derive more precise criteria values. The short-term water quality criteria 
+  incorporating salinity corrections to derive more precise criteria values. The short-term criteria 
   for the Bohai Sea, Yellow Sea, East China Sea, and South China Sea were 94.0, 77.6, 84.2, and 118 μg/L under 
   the salinity correction, respectively, and the long-term criteria was 4.10 μg/L. Ecological risk assessments 
   employing diverse methodologies revealed varying levels of risk across sea areas, underscoring the nuanced 
   nature of zinc pollution's impact on marine ecosystems. Greater acute and chronic risk of zinc ions observed 
-  in the Yellow Sea region. These findings highlight the necessity for tailored management strategies to safeguard 
-  local marine life against zinc-induced environmental threats. These findings underscore the imperative need for 
-  tailored management strategies to protect local marine life from the environmental threats posed by zinc.
+  in the Yellow Sea region. These findings underscore the imperative need for tailored management strategies to protect local marine life from the 
+  environmental threats posed by zinc.
 date: 2024-07-14
 venue: 'Science of the Total Environment'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
