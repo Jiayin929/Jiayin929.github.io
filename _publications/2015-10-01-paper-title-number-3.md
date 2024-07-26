@@ -10,7 +10,7 @@ paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Xu, J., Xin-Ming, P.U., Lu, D., Xing, Y., Liu, C., Wei, M., Wang, B., et al., 2023. Seawater quality criteria and ecotoxicity risk assessment of zinc oxide nanoparticles based on data of resident marine organisms in China. Science of the Total Environment 905, 166690. 10.1016/j.scitotenv.2023.166690.'
 ---
 
- Water quality criteria (WQC) for zinc oxide nanoparticles (ZnO NPs) are crucial due to their extensive industrial
+  Water quality criteria (WQC) for zinc oxide nanoparticles (ZnO NPs) are crucial due to their extensive industrial
   use and potential threats to marine organisms. This study conducted toxicity tests using marine organisms in
   China, revealing LC50 or EC50 values for ZnO NPs ranging from 0.36 to 95.6 mg/L across seven species, among
   which the salinity lake crustacean zooplankton Artemia salina exhibited the highest resistance, while diatom
