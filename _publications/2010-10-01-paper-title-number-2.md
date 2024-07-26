@@ -2,7 +2,14 @@
 title: " From antioxidant defense to genotoxicity: Deciphering the tissue-specific impact of AgNPs on marine clam Ruditapes philippinarum"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: >
+excerpt: > #
+date: 2024-02-27
+venue: 'Aquatic Toxicology'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+paperurl: #'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Xing, Y., Pu, X., Pan, J., Xu, J., Liu, C., Lu, D., 2024. From antioxidant defense to genotoxicity: Deciphering the tissue-specific impact of AgNPs on marine clam Ruditapes philippinarum. Aquatic Toxicology 270, 106883. 10.1016/j.aquatox.2024.106883.'
+---
+
   The escalating use of silver nanoparticles (AgNPs) across various sectors for their broad-spectrum antimicrobial
   capabilities, has raised concern over their potential ecotoxicological effects on aquatic life. This study explores
   the impact of AgNPs (50 μg/L) on the marine clam Ruditapes philippinarum, with a particular focus on its gills and
@@ -17,11 +24,3 @@ excerpt: >
   organ for monitoring emerging nanopollutants. Overall, this study significantly advances our understanding of
   the mechanisms driving nanoparticle-induced stress responses in bivalves and lays the groundwork for future
   investigations into preventing and treating such pollutants in aquaculture.
-date: 2024-02-27
-venue: 'Aquatic Toxicology'
-slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Xing, Y., Pu, X., Pan, J., Xu, J., Liu, C., Lu, D., 2024. From antioxidant defense to genotoxicity: Deciphering the tissue-specific impact of AgNPs on marine clam Ruditapes philippinarum. Aquatic Toxicology 270, 106883. 10.1016/j.aquatox.2024.106883.'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
