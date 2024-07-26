@@ -2,7 +2,7 @@
 title: "Seawater quality criteria and ecotoxicity risk assessment of zinc oxide nanoparticles based on data of resident marine organisms in China"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: # 
+excerpt: > #
 date: 2023-08-28
 venue: 'Science of the Total Environment'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
