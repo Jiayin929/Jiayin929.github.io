@@ -10,7 +10,5 @@ Hi, I'm  Jia-yin, Joey is my English name, a first year PhD student from College
 
 I am very fortunate to be advised by Prof. Qiao-guo Tan (https://cee.xmu.edu.cn/info/1030/3659.htm) of XCT Lab from College of the Environment & Ecology, Xiamen University. I was advised by Prof. Jin-Fen Pan from Metal Ecotoxicology and Environmental Safety Lab, College of Environmental Science and Engineering, Ocean University of China.
 
-You can find my CV here: [Jia-yin's Curriculum_Vitae](../assets/Jia-yin's Curriculum_Vitae.pdf).
-
 [Wechat](../images/wechat.png) 
 
