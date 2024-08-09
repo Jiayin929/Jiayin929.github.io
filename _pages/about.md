@@ -12,7 +12,9 @@ I am very fortunate to be advised by Prof. Qiao-Guo Tan of XCT Lab from College 
 
 [Wechat](../images/wechat.png) 
 
-title: "Award"
+---
+permalink: /
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,3 +25,4 @@ Hi, I'm  Jia-yin, Joey is my English name, a first year PhD student from College
 I am very fortunate to be advised by Prof. Qiao-Guo Tan of XCT Lab from College of the Environment & Ecology, Xiamen University. I was advised by Prof. Jin-Fen Pan from Metal Ecotoxicology and Environmental Safety Lab, College of Environmental Science and Engineering, Ocean University of China.
 
 [Wechat](../images/wechat.png) 
+
